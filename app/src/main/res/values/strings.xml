@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AmpUp</string>
+    <string name="com_spotify_sdk_redirect_scheme">ampup</string>
+    <string name="com_spotify_sdk_redirect_host">callback</string>
 </resources>
